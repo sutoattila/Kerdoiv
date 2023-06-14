@@ -1,0 +1,198 @@
+{
+    "poll1": {
+        "id": "poll1",
+        "question": "Mi az alábbiak közül a kedvenc Netflixes sorozatod?",
+        "options": [
+            "Wednesday",
+            "Stranger Things",
+            "Last Dance",
+            "Queen's Gambit",
+            "Money Heist"
+        ],
+        "isMultiple": "False",
+        "createdAt": "2022-12-16",
+        "deadline": "2022-12-16",
+        "voters": [
+            "Attila",
+            "Attila1"
+        ],
+        "given_answers": {
+            "Wednesday": 1,
+            "Stranger Things": 0,
+            "Last Dance": 1,
+            "Queen's Gambit": 0,
+            "Money Heist": 0
+        },
+        "_id": "poll1"
+    },
+    "poll2": {
+        "id": "poll2",
+        "question": "Mi az alábbiak közül a kedvenc programozási nyelved?",
+        "options": [
+            "C",
+            "C++",
+            "Java",
+            "PHP",
+            "Javascript",
+            "Haskell "
+        ],
+        "isMultiple": "False",
+        "createdAt": "2022-12-16",
+        "deadline": "2022-12-15",
+        "voters": [],
+        "given_answers": {
+            "C": 0,
+            "C++": 0,
+            "Java": 0,
+            "PHP": 0,
+            "Javascript": 0,
+            "Haskell ": 0
+        },
+        "_id": "poll2"
+    },
+    "poll3": {
+        "id": "poll3",
+        "question": "Melyik volt a számodra a három legkönnyebb tárgy az alábbiak közül?",
+        "options": [
+            "Jog",
+            "Webfejlesztés",
+            "Programozási nyelvek (Java)",
+            "Innovációs vállalkozás és menedzsment",
+            "Programozási alapok",
+            "Logika GY",
+            "Matematikai alapok",
+            "Számítógépes rendszerek"
+        ],
+        "isMultiple": "True",
+        "createdAt": "2022-12-16",
+        "deadline": "2022-12-18",
+        "voters": [],
+        "given_answers": {
+            "Algoritmusok és adatszerkezetek I": 0,
+            "Algoritmusok és adatszerkezetek II": 0,
+            "Analízis I": 0,
+            "Analízis II": 0,
+            "OEP": 0,
+            "Imperatív programozás": 0,
+            "Matematikai alapok": 0,
+            "GUI programozás Qt-vel": 0
+        },
+        "_id": "poll3"
+    },
+    "poll4": {
+        "id": "poll4",
+        "question": "Melyik volt a számodra a három legnehezebb tárgy az alábbiak közül?",
+        "options": [
+            "Algoritmusok és adatszerkezetek I",
+            "Algoritmusok és adatszerkezetek II",
+            "Analízis I",
+            "Analízis II",
+            "OEP",
+            "Imperatív programozás",
+            "Matematikai alapok",
+            "GUI programozás Qt-vel"
+        ],
+        "isMultiple": "True",
+        "createdAt": "2022-12-16",
+        "deadline": "2022-12-18",
+        "voters": [
+            "Attila"
+        ],
+        "given_answers": {
+            "Algoritmusok és adatszerkezetek I": 1,
+            "Algoritmusok és adatszerkezetek II": 1,
+            "Analízis I": 0,
+            "Analízis II": 0,
+            "OEP": 0,
+            "Imperatív programozás": 0,
+            "Matematikai alapok": 0,
+            "GUI programozás Qt-vel": 1
+        },
+        "_id": "poll4"
+    },
+    "poll6": {
+        "id": "poll6",
+        "question": "Mi az alábbiak közül a három kedvenc Bruce Willis filmed?",
+        "options": [
+            "Hatodik érzék",
+            "Die Hard",
+            "Red",
+            "Ötödik elem",
+            "Bérgyilkos a szomszédom",
+            "Két kopper"
+        ],
+        "isMultiple": "True",
+        "createdAt": "2022-12-27",
+        "deadline": "2023-12-31",
+        "voters": [
+            "Attila"
+        ],
+        "given_answers": {
+            "Hatodik érzék": 0,
+            "Die Hard": 0,
+            "Red": 1,
+            "Ötödik elem": 0,
+            "Bérgyilkos a szomszédom": 1,
+            "Két kopper": 1
+        },
+        "_id": "poll6"
+    },
+    "poll7": {
+        "id": "poll7",
+        "question": "Ki az alábbiak közül a kedvenc Trónok harca szereplőd?",
+        "options": [
+            "Jon Snow",
+            "Ned Stark",
+            "Jaime",
+            "Tyrion",
+            "Daenerys",
+            "Arya",
+            "Nem láttam a Trónok harcát ):"
+        ],
+        "isMultiple": "False",
+        "createdAt": "2022-12-16",
+        "deadline": "2022-12-18",
+        "voters": [
+            "Attila"
+        ],
+        "given_answers": {
+            "Jon Snow": 0,
+            "Ned Stark": 1,
+            "Jaime": 0,
+            "Tyrion": 0,
+            "Daenerys": 0,
+            "Arya": 0,
+            "Nem láttam a Trónok harcát ):": 0
+        },
+        "_id": "poll7"
+    },
+    "poll5": {
+        "id": "poll5",
+        "question": "Melyik a kedvenc Wednesday szereplőd?",
+        "options": [
+            "Eugene",
+            "Enid",
+            "Wednesday",
+            "Bianca",
+            "Fester bácsi",
+            "Thing",
+            "Nem láttam a Wednesday-t :("
+        ],
+        "isMultiple": "False",
+        "createdAt": "2022-12-28",
+        "deadline": "2023-12-19",
+        "voters": [
+            "Attila"
+        ],
+        "given_answers": {
+            "Eugene": 1,
+            "Enid": 0,
+            "Wednesday": 0,
+            "Bianca": 0,
+            "Fester bácsi": 0,
+            "Thing": 0,
+            "Nem láttam a Wednesday-t :(": 0
+        },
+        "_id": "poll5"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "63ac16bb9bd225.56227572": {
+        "username": "Attila",
+        "email": "attila.suto2002@gmail.com",
+        "password": "$2y$10$hUIo3CflbwfQ6FJwYHy5KOrnyVIlmbG4McndrUnlS5eDYDUIoNcSm",
+        "password_again": "$2y$10$qisS.RWxIjOsMF3FbDDuiu/efgkXpFiqgChVrvDvUCEUKbLfDj3J2",
+        "solutions": {
+            "Melyik a kedvenc Wednesday szereplőd?": [
+                "Eugene"
+            ],
+            "Mi az alábbiak közül a három kedvenc Bruce Willis filmed?": [
+                "Red",
+                "Bérgyilkos a szomszédom",
+                "Két kopper"
+            ]
+        },
+        "_id": "63ac16bb9bd225.56227572"
+    }
+}
